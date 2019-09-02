@@ -1,0 +1,13 @@
+.container{
+    width:100%;
+    display:flex;
+}
+.sidebar-menu{
+    width: 25%;
+
+}
+
+.main-content{
+    width:75%;
+}
+
